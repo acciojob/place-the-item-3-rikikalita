@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:flex;
-	justtify-content:space-evenly;
-	align-items:center;
-	flex-wrap:wrap;
-	text-align:center;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	align-items: center;
+	text-align: center;
 }
